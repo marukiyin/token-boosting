@@ -1,0 +1,10 @@
+{
+  "name": "token-boosting-queue",
+  "version": "1.0.0",
+  "description": "A public queue for joining a host's game sessions.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
